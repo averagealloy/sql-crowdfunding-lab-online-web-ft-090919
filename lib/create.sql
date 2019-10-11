@@ -4,6 +4,6 @@ title TEXT,
 category TEXT,
 funding_goal INTEGER,
 start_date DATE,
-end_date D
+end_date DATE 
 
 )
