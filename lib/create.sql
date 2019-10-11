@@ -12,4 +12,4 @@ CREATE TABLE users (
   name TEXT,
   age INTEGER
 );
-c
+CRE
