@@ -8,5 +8,6 @@ end_date DATE
 
 );
 CREATE TABLE users(
-  id INTEGER PRIMARY KEY
+  id INTEGER PRIMARY KEY,
+  
 )
