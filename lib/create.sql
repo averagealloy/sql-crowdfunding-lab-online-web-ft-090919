@@ -9,5 +9,5 @@ end_date DATE
 );
 CREATE TABLE users(
   id INTEGER PRIMARY KEY,
-  name 
+  name text 
 )
