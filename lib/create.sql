@@ -8,5 +8,5 @@ end_date DATE
 
 );
 CREATE TABLE users(
-  id INTEGER PRI
+  id INTEGER PRIMARY 
 )
