@@ -7,4 +7,4 @@ start_date DATE,
 end_date DATE
 
 );
-CREATE TABLE users 
+CREATE TABLE users()
