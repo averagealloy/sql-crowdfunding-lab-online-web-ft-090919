@@ -5,4 +5,5 @@ category TEXT,
 funding_goal INTEGER,
 start_date DATE,
 
+
 )
